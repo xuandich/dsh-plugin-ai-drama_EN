@@ -26,11 +26,11 @@
   "author": "HengryLiang",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/HengryLiang/dsh-plugin-ai-drama.git"
+    "url": "git+https://github.com/xuandich/dsh-plugin-ai-drama_EN.git"
   },
-  "homepage": "https://github.com/HengryLiang/dsh-plugin-ai-drama#readme",
+  "homepage": "https://github.com/xuandich/dsh-plugin-ai-drama_EN#readme",
   "bugs": {
-    "url": "https://github.com/HengryLiang/dsh-plugin-ai-drama/issues"
+    "url": "https://github.com/xuandich/dsh-plugin-ai-drama_EN/issues"
   },
   "dsh": {
     "manifestVersion": 1,

@@ -1,6 +1,6 @@
 # AI 短剧工作区 · `dsh-plugin-ai-drama`
 
-[![test](https://github.com/HengryLiang/dsh-plugin-ai-drama/actions/workflows/ci.yml/badge.svg)](https://github.com/HengryLiang/dsh-plugin-ai-drama/actions/workflows/ci.yml)
+[![test](https://github.com/xuandich/dsh-plugin-ai-drama_EN/actions/workflows/ci.yml/badge.svg)](https://github.com/xuandich/dsh-plugin-ai-drama_EN/actions/workflows/ci.yml)
 [![license: MIT](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 [![topic: dsh-plugin](https://img.shields.io/badge/topic-dsh--plugin-6f42c1)](https://github.com/topics/dsh-plugin)
 
@@ -71,7 +71,7 @@
 ### 方式一：直接从 GitHub 安装（推荐）
 
 ```sh
-dsh plugin --profile <profile> add github:HengryLiang/dsh-plugin-ai-drama#v0.16.281
+dsh plugin --profile <profile> add github:xuandich/dsh-plugin-ai-drama_EN#v0.16.281
 ```
 
 `<profile>` 换成你的 profile 名（`dsh web` 对应 `web`，桌面端通常是 `desktop`）。首次使用 `dsh plugin` 会自动创建 profile。
@@ -80,14 +80,14 @@ dsh plugin --profile <profile> add github:HengryLiang/dsh-plugin-ai-drama#v0.16.
 
 ```sh
 curl -L -o dsh-plugin-ai-drama.tgz \
-  https://github.com/HengryLiang/dsh-plugin-ai-drama/releases/download/v0.16.281/dsh-plugin-ai-drama-0.16.281.tgz
+  https://github.com/xuandich/dsh-plugin-ai-drama_EN/releases/download/v0.16.281/dsh-plugin-ai-drama-0.16.281.tgz
 dsh plugin --profile <profile> add ./dsh-plugin-ai-drama.tgz
 ```
 
 ### 方式三：本地开发目录
 
 ```sh
-git clone https://github.com/HengryLiang/dsh-plugin-ai-drama.git
+git clone https://github.com/xuandich/dsh-plugin-ai-drama_EN.git
 dsh plugin --profile <profile> add ./dsh-plugin-ai-drama
 ```
 
@@ -351,7 +351,7 @@ npm test        # 公开仓库结构 smoke（test/public-smoke.mjs，不依赖�
 
 <img src="assets/wechat-contact.jpg" alt="作者微信：xi2xi-AIGC" width="220">
 
-> 也可以直接在 GitHub 提 [Issue](https://github.com/HengryLiang/dsh-plugin-ai-drama/issues)，公开问题优先走 Issue，方便后来者检索。
+> 也可以直接在 GitHub 提 [Issue](https://github.com/xuandich/dsh-plugin-ai-drama_EN/issues)，公开问题优先走 Issue，方便后来者检索。
 
 ## 赞助支持
 
