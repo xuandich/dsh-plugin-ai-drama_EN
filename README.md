@@ -14,9 +14,11 @@
 > Sidebar + main-panel workspace covering the full short-drama pipeline, a dedicated `drama` agent preset with
 > 33 agent tools, 19 bundled skills, a `/drama` slash command, criteria/quality gates, an asset & style system,
 > safe local media access, asset import / cross-project reuse / multi-round review, shot-prompt import / VCS export,
-> and adapters that drive external canvas CLIs (LibTV / NeoWoW). UI and docs are in Chinese.
+> and adapters that drive external canvas CLIs (LibTV / NeoWoW). The plugin UI is in English; the README, bundled skills and agent prompts remain in Chinese.
 
 > 当前版本：**v0.16.281**（本地最新开发线同步构建）。个人使用免费；企业定制 / 专属支持见文末「商业合作与定制」。
+
+> **Fork notice**: This is an English-UI fork of [HengryLiang/dsh-plugin-ai-drama](https://github.com/HengryLiang/dsh-plugin-ai-drama) by Xuan Dich. The original plugin and its design are by HengryLiang, and the MIT license and original copyright notice are retained. In this fork, the UI labels in `client.js` were translated to English without changing behavior: backend values, storage keys, comparison keys and LLM prompts are unchanged. Links and contact/sponsorship sections below still point to the original project and author.
 
 ---
 
